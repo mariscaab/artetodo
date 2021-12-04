@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dasmoto's Arts y Crafts</title>
+    <link rel="stylesheet" href="resources/css/index.css">
+</head>
+<body>
+    <div class="messi">
+        <h1>Dasmoto's Arts y Crafts</h1>
+    </div>
+
+
+    <div>
+        <h2 class="brochas">Brushes</h3>
+        <img src="resources/images/imagen de brochas.webp">
+        <h3 class="bolder">Hacksaw Brushes</h4>
+        <p>Made of the highest quality oak, Hacksaw brushes are known for their weight and ability to hold paint in large amounts. Available in different sizes.<span class="empezando">Starting at $3.00 / brush.</span></p>
+    </div>
+
+    <div>
+        <h2 class="cuadros">Frames</h3>
+        <img src="./resources/images/imagen de cuadros de recuadros.webp">
+        <h3 class="bolder">Art Frames (assorted)</h4>
+        <p>Assorted frames made of different material, including MDF, birchwood, and PDE. Select frames can be sanded and painted according to your needs. <span class="empezando">Starting at $2.00 / brush.</span></p>
+    </div>
+
+    <div>
+        <h2 class="pinturas">Paint</h3>
+        <img src="./resources/images/pinturas.jpeg">
+        <h3 class="bolder">Clean Finnish Paint</h4>
+        <p>Imported paint from Finland. Over 256 colors available in-store, varying in quantity (1 oz. to 8 oz.). Clean Finnish paint microbinds to canvas, increasing the finish and longevity of any artwork. <span class="empezando">Starting at $5.00 / brush.</span></p>
+    </div>
+    
+
+</body>
+</html>
